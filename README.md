@@ -82,7 +82,7 @@ plt.show()
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/Ravii-saini/Credit_Card_Fraud_Detection.git>
+   git clone <https://github.com/priyanshu2552/Credit_Card_fraud_detection.git>
    ```
 
 2. **Install Required Packages**:
